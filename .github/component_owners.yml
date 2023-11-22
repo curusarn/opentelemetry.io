@@ -1,0 +1,65 @@
+#####################################################
+#
+# List of approvers for OpenTelemetry Website repository
+#
+#####################################################
+#
+# Learn about membership in OpenTelemetry community:
+#  https://github.com/open-telemetry/community/blob/main/community-membership.md
+#
+#
+# Learn about component_owners.yml file format:
+#  https://github.com/dyladan/component-owners
+#
+components:
+  content-modules/opamp-spec/:
+    - "@open-telemetry/opamp-spec-approvers"
+  content-modules/opentelemetry-proto/:
+    - "@open-telemetry/specs-approvers"
+  content-modules/opentelemetry-specification/:
+    - "@open-telemetry/specs-approvers"
+  content-modules/semantic-conventions/:
+    - "@open-telemetry/specs-semconv-approvers"
+  content/en/blog/:
+    - "@open-telemetry/blog-approvers"
+  content/en/community/end-user/:
+    - "@open-telemetry/end-user-wg"
+  content/en/docs/collector/:
+    - "@open-telemetry/collector-approvers"
+  content/en/docs/demo/:
+    - "@open-telemetry/demo-approvers"
+  content/en/docs/instrumentation/cpp/:
+    - "@open-telemetry/cpp-approvers"
+  content/en/docs/instrumentation/erlang/:
+    - "@open-telemetry/erlang-approvers"
+  content/en/docs/instrumentation/go/:
+    - "@open-telemetry/go-approvers"
+    - "@open-telemetry/go-instrumentation-approvers"
+  content/en/docs/instrumentation/java/:
+    - "@open-telemetry/java-approvers"
+    - "@open-telemetry/java-instrumentation-approvers"
+  content/en/docs/instrumentation/js/:
+    - "@open-telemetry/javascript-approvers"
+  content/en/docs/instrumentation/net/:
+    - "@open-telemetry/dotnet-approvers"
+    - "@open-telemetry/dotnet-instrumentation-approvers"
+  content/en/docs/instrumentation/php/:
+    - "@open-telemetry/php-approvers"
+  content/en/docs/instrumentation/python/:
+    - "@open-telemetry/python-approvers"
+  content/en/docs/instrumentation/ruby/:
+    - "@open-telemetry/ruby-approvers"
+    - "@open-telemetry/ruby-contrib-approvers"
+  content/en/docs/instrumentation/rust/:
+    - "@open-telemetry/rust-approvers"
+  content/en/docs/instrumentation/swift/:
+    - "@open-telemetry/swift-approvers"
+  content/en/docs/kubernetes/operator/:
+    - "@open-telemetry/operator-approvers"
+  content/en/docs/kubernetes/helm/:
+    -" @open-telemetry/helm-approvers"
+  content/en/docs/specs/:
+    - "@open-telemetry/specs-approvers"
+  content/en/ecosystem/demo/:
+    - "@open-telemetry/demo-approvers"
+
